@@ -19,18 +19,8 @@
   }
 }
 
-@media (min-width:1024px) {
-  .lead__title {
-    font-size: 96px;
-    line-height: 100px;
-    margin: 48px auto 32px;
-  }
-}
-
 @media (min-width:1280px) {
   .lead__title {
-    font-size: 96px;
-    line-height: 100px;
     margin: 56px auto 32px;
   }
 }

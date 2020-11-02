@@ -10,7 +10,6 @@
   .footer__links  {
     margin: 0;
     gap: 18px;
-    padding: 0;
     grid-template-columns: repeat(5,max-content);
   }
 }
