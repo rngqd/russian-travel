@@ -27,7 +27,7 @@
 @media (min-width:1280px) {
   .grid-galary {
     grid-template-columns: repeat(4, 1fr);
-    gap: 16px;
-    max-width: 1184px;
+    gap: 17px;
+    max-width: 1187px;
   }
 }
