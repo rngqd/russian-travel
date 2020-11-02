@@ -1,0 +1,9 @@
+.place__paragraph_second {
+  margin: 25px 16px 0;
+}
+
+@media (min-width:768px) {
+  .place__paragraph_second  {
+   margin: 26px 0 0;
+  }
+}

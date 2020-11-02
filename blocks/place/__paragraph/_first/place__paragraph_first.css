@@ -1,0 +1,10 @@
+.place__paragraph_first {
+
+  margin: 32px 16px 0;
+}
+
+@media (min-width:768px) {
+  .place__paragraph_first{
+  margin: 48px 0 0;
+  }
+}

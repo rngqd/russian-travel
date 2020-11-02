@@ -1,0 +1,21 @@
+.grid-galary__item {
+  object-fit: cover;
+  max-width: 288px;
+}
+
+@media (min-width:768px) {
+  .grid-galary__item {
+    max-width: 352px;
+  }
+}
+
+@media (min-width:1024px) {
+  .grid-galary__item {
+    max-width: 300px;
+  }
+}
+
+@media (min-width:1280px) {
+  .grid-galary__item {
+    max-width: 284px;
+}

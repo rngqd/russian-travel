@@ -1,0 +1,19 @@
+.lead__image {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0;
+}
+
+@media (min-width:1024px) {
+  .lead__image {
+  margin:0 48px;
+  width: calc(100vw - 96px);
+  }
+}
+
+@media (min-width:1280px) {
+  .lead__image {
+    margin:0 148px;
+    width: calc(100vw - 296px);
+  }
+}
