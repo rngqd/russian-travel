@@ -14,13 +14,13 @@
   .lead__subtitle {
     font-size: 30px;
     line-height: 36px;
-    margin: 48px auto 32px;
+    margin: 32px auto 32px;
     max-width: 640px;
   }
 }
 
 @media (min-width:1280px) {
   .lead__subtitle {
-    margin: 56px auto 32px;
+    margin: 32px auto 64px;
   }
 }

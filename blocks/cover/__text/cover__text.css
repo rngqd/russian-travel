@@ -14,7 +14,7 @@
 @media (min-width:768px) {
   .cover__text  {
     max-width: 360px;
-    margin:32px 204px 0;
+    margin:32px auto 0;
     font-size: 18px;
     line-height: 22px;
   }
@@ -22,12 +22,12 @@
 
 @media (min-width:1024px) {
   .cover__text  {
-    margin:32px 332px 0;
+    margin:32px auto 0;
   }
 }
 
 @media (min-width:1280px) {
   .cover__text  {
-    margin:32px 412px 0;
+    margin:32px auto 0;
   }
 }
