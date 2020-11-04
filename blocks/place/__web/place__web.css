@@ -1,0 +1,10 @@
+.place__web {
+ display: none;
+  align-self: end;
+}
+
+@media (min-width:768px) {
+  .place__web  {
+  display: block;
+  }
+}

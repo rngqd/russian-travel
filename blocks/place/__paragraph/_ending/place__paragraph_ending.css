@@ -1,0 +1,9 @@
+.place__paragraph_ending {
+  margin: 25px 16px 0;
+}
+
+@media (min-width:768px) {
+  .place__paragraph_ending  {
+   margin: 26px 0 0;
+  }
+}

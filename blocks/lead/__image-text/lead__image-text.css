@@ -1,0 +1,28 @@
+.lead__image-text {
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin:8px 0 0 16px;
+}
+
+@media (min-width:768px) {
+  .lead__image-text {
+   margin-left: 24px;
+  }
+}
+@media (min-width:1024px) {
+  .lead__image-text {
+  margin-left: 48px;
+  }
+}
+
+@media (min-width:1280px) {
+  .lead__image-text {
+   margin-left: 148px;
+  }
+}
