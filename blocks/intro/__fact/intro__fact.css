@@ -1,6 +1,16 @@
 .intro__fact {
+<<<<<<< HEAD
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-weight: bold;
+=======
+  font-family: Inter, Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
+  font-weight: bold;
+=======
+  font-style: bold;
+  font-weight: 900;
+>>>>>>> 361d1e44089ca1084996c81218b0cad2a731a41c
+>>>>>>> 410999dfed8e0cc04a6fd251e3620317219fff2c
   font-size: 12px;
   line-height: 18px;
   color: #FFFFFF;
