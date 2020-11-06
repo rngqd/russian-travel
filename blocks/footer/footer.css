@@ -1,5 +1,5 @@
 @media (min-width:768px) {
-  .footer__content  {
+  .footer  {
    margin:89px 24px 24px;
    display: flex;
    justify-content: space-between;
@@ -7,14 +7,13 @@
 }
 
 @media (min-width:1024px) {
-  .footer__content  {
+  .footer  {
     margin:89px 48px 24px;
   }
 }
 
 @media (min-width:1280px) {
-  .footer__content  {
+  .footer {
     
   }
 }
-

@@ -1,6 +1,6 @@
 .cover__text {
   position: relative;
-  margin: 19px 16px 0;
+  margin: 19px auto 0;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -8,6 +8,7 @@
   line-height: 16px;
   text-align: center;
   color: #FFFFFF;
+  max-width: 288px;
   z-index: 1;
 }
 

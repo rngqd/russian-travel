@@ -1,16 +1,16 @@
-.header__container {
+.header {
   display:flex;
   justify-content: space-between;
   margin:16px 16px 0;
 }
 @media (min-width:768px) {
-  .header__container {
+  .header {
     margin: 28px 24px 0;
   }
 }
 
 @media (min-width:1024px) {
-  .header__container {
+  .header {
     margin: 28px 48px 0;
   }
 }
